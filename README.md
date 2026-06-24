@@ -1,0 +1,2 @@
+# Spatial-Interpolation-of-Total-Precipitation-Using-IDW-and-Kriging-in-R
+This exercise compares two spatial interpolation methods, Inverse Distance Weighting (IDW) and ordinary kriging, for total precipitation. The interpolated surfaces are generated from precipitation station data and then cropped and masked to the boundary of Aragon. The project also includes a direct comparison between the two interpolations.
